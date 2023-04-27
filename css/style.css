@@ -1,0 +1,29 @@
+a { 
+    text-decoration: none; 
+}
+.menu { 
+list-style: none;
+}
+/* .menu-item {
+
+} */
+.menu-item-link { 
+    color: #222222;
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: bold;
+}
+p {
+    color: #7D7987;
+    font-size: 18px;
+    line-height: 30px;
+    font-weight: 300px;
+    font-style: normal;
+}  
+.subtitle {
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;  
+}
